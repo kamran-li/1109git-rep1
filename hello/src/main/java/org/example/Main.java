@@ -1,16 +1,16 @@
 package org.example;
 
 /**
- * ClassName: hello
+ * ClassName: ${NAME}
  * Package: org.example
  * Description:
  *
  * @Author 李大仙儿
- * @Create 2023/3/9 14:48
- * @Version 1.0 在·
+ * @Create ${DATE} ${TIME}
+ * @Version 1.0
  */
-public class hello {
+public class Main {
     public static void main(String[] args) {
-        System.out.println("我是你爸爸");
+        System.out.println("Hello world!");
     }
 }
